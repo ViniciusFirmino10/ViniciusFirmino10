@@ -1,18 +1,15 @@
 # Olá, sou o Vinicius Firmino! 👋
 
-🎓 Graduando em Análise e Desenvolvimento de Sistemas (UNIPAR)  
-💻 Foco atual: Python, JavaScript, HTML5, CSS3 e SQL  
-🛠️ Experiência com Suporte Técnico, Linux e Gestão de Sistemas  
-
+Desenvolvedor Front-End em formação, focado em construir interfaces funcionais e responsivas para a web.
+Atualmente estou aprofundando meus conhecimentos na integração de **HTML**, **CSS3** e **JavaScript** para criação de aplicações web e landing pages.
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Linguagens & Web:** Python, JavaScript, HTML5, CSS3
-- **Banco de Dados:** SQL Server
-- **Ferramentas:** Git, GitHub, VS Code, Linux, Pacote Office
+- **Front-End:** HTML5, CSS3, JavaScript
+- **Outras Linguagens:** Python (Logica básica)
+- **Ferramentas:** Git, GitHub, VS Code
 
 ---
 
 ### 📬 Vamos nos conectar?
 - **LinkedIn:** https://www.linkedin.com/in/vinicius-firmino-b0b011425/
-- **E-mail:** fermino.vinicius@gmail.com
